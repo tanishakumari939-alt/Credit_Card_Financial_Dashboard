@@ -228,7 +228,10 @@ This dashboard can help financial businesses:
 - ✅ Support data-driven decision making
 
 ## 📸 Dashboard Preview
- Add 
+Add your dashboard-1 screenshot here:
+
+
+
 
 ### 💳 Credit Card Transaction Report
 
