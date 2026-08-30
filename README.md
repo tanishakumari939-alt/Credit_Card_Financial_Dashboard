@@ -230,6 +230,12 @@ This dashboard can help financial businesses:
 ## 📸 Dashboard Preview
 Add your dashboard-1 screenshot here:
 
+### Credit Card Transaction Dashboard
+<img width="839" height="479" alt="image" src="https://github.com/user-attachments/assets/331df983-2794-466c-b979-337e3a836b07" />
+
+### Credit Card Customer Dashboard
+
+
 
 
 
