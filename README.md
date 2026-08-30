@@ -164,6 +164,16 @@ The dashboard highlights the *Top 5 states by revenue*, helping identify high-pe
 # 🔄 Project Workflow
 
 ```text
+HR-Analytics-Dashboard/
+│
+├── 📊 HR_Analytics_Dashboard.pbix
+├── 🖼️ HR_Dashboard_Screenshot.png
+├── 📄 HR_Analytics_Dataset.xlsx
+├── 🗄️ SQL_Queries.sql
+└── 📘 README.md
+```
+
+```text
 Raw Credit Card Data
         ↓
 Data Cleaning
@@ -181,11 +191,25 @@ Interactive Dashboard
 Business Insights
 ```
 
+
+
 SQL/credit_card_analysis.sql
 PowerBI/Credit_Card_Sales_Dashboard.pbix
 Dashboard/Transaction_Report.png
 Dashboard/Customer_Report.png
 Documentation/Project_Report.pdf
+
+```mermaid
+flowchart TD
+    A[📂 Raw HR Data] --> B[🧹 Data Cleaning]
+    B --> C[🗄️ MySQL Database]
+    C --> D[🔍 SQL Analysis]
+    D --> E[📊 Power BI]
+    E --> F[🧮 DAX & KPIs]
+    F --> G[📈 Interactive Dashboard]
+    G --> H[💡 HR Insights]
+```
+
 
 ## Sales-Dashboard/
 │
