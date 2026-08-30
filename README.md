@@ -187,7 +187,7 @@ flowchart TD
 ## Repository Structure
 
  ```text
-HR-Analytics-Dashboard/
+Sales-Dashboard/
 │
 ├── 📊 Sales_Dashboard.pbix
 ├── 🖼️ Credit_Card_Transaction_Dashboard_Screenshot.png
@@ -254,4 +254,4 @@ Add your dashboard-1 screenshot here:
 - Business Analysis
 - Customer Segmentation
 - Dashboard Design
--Git & GitHub
+- Git & GitHub
