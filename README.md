@@ -171,7 +171,7 @@ flowchart TD
     D --> E[📊 Power BI]
     E --> F[🧮 DAX & KPIs]
     F --> G[📈 Interactive Dashboard]
-    G --> H[💡 Business Insights Insights]
+    G --> H[💡 Business Insights]
 ```
 
 
