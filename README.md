@@ -159,45 +159,9 @@ Customer revenue is segmented by:
 
 The dashboard highlights the *Top 5 states by revenue*, helping identify high-performing geographical markets.
 
----
 
 # 🔄 Project Workflow
 
-```text
-HR-Analytics-Dashboard/
-│
-├── 📊 HR_Analytics_Dashboard.pbix
-├── 🖼️ HR_Dashboard_Screenshot.png
-├── 📄 HR_Analytics_Dataset.xlsx
-├── 🗄️ SQL_Queries.sql
-└── 📘 README.md
-```
-
-```text
-Raw Credit Card Data
-        ↓
-Data Cleaning
-        ↓
-Data Transformation
-        ↓
-MySQL / SQL Analysis
-        ↓
-Power BI Data Modeling
-        ↓
-DAX Measures & KPIs
-        ↓
-Interactive Dashboard
-        ↓
-Business Insights
-```
-
-
-
-SQL/credit_card_analysis.sql
-PowerBI/Credit_Card_Sales_Dashboard.pbix
-Dashboard/Transaction_Report.png
-Dashboard/Customer_Report.png
-Documentation/Project_Report.pdf
 
 ```mermaid
 flowchart TD
@@ -211,26 +175,6 @@ flowchart TD
 ```
 
 
-## Sales-Dashboard/
-│
-├── 📁 Dataset/
-│   └── credit_card_data.csv
-│
-├── 📁 SQL/
-│   └── credit_card_analysis.sql
-│
-├── 📁 PowerBI/
-│   └── Credit_Card_Sales_Dashboard.pbix
-│
-├── 📁 Dashboard/
-│   ├── Transaction_Report.png
-│   └── Customer_Report.png
-│
-├── 📁 Documentation/
-│   └── Project_Report.pdf
-│
-└── README.md
-
 ## 🧮 Key KPIs
 
 - Revenue
@@ -239,6 +183,22 @@ flowchart TD
 - Transaction Count
 - Income
 - Customer Satisfaction Score
+
+## Repository Structure
+
+ ```text
+HR-Analytics-Dashboard/
+│
+├── 📊 Sales_Dashboard.pbix
+├── 🖼️ Credit_Card_Transaction_Dashboard_Screenshot.png
+├── 🖼️ Credit_Card_Customer_Dashboard_Screenshot.png
+├── 📄 credit_card_Dataset.xlsx
+├── 🧮 customer_Dataset.xlsx
+├── 📊 cc_add_Dataset.xlsx
+├── 📄 cust_add_Dataset.xlsx
+├── 🗄️ SQL_Queries.sql
+└── 📘 README.md
+```
 
 
 ## 🎛️ Interactive Filters
@@ -268,6 +228,7 @@ This dashboard can help financial businesses:
 - ✅ Support data-driven decision making
 
 ## 📸 Dashboard Preview
+ Add 
 
 ### 💳 Credit Card Transaction Report
 
