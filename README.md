@@ -1,4 +1,4 @@
-# Sales Dashboard
+# 📈Sales Dashboard
 
 📊 An interactive *Credit Card Sales & Customer Analytics Dashboard* built using Power BI to analyze revenue, transactions, customer demographics, card categories, spending behavior, and customer segments.
 
