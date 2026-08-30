@@ -232,9 +232,11 @@ Add your dashboard-1 screenshot here:
 
 ### Credit Card Transaction Dashboard
 
+<img width="752" height="430" alt="Screenshot 2026-08-30 134623" src="https://github.com/user-attachments/assets/1d23cc88-9656-445b-9ed3-1e2bf328fa1a" />
 
 
 ### Credit Card Customer Dashboard
+
 <img width="839" height="479" alt="image" src="https://github.com/user-attachments/assets/331df983-2794-466c-b979-337e3a836b07" />
 
 
